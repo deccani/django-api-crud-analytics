@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-5hpp3d0qs=-_5*7ts=%ggbahigisueo$#25*0^_rc11kr%hza8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['django-api-crud-analytics.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
